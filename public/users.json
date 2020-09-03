@@ -1,0 +1,29 @@
+[
+    {
+        "id":"1",
+        "name":"Marek",
+        "email":"example@google.com",
+        "info":"Dyrektor generalny. Od 2021 zmienia stanowisko."
+    },
+
+    {
+        "id":"2",
+        "name":"Jakub",
+        "email":"jakub@google.com",
+        "info":"Stały programista, kiedyś był w Bolonii."
+    },
+
+    {
+        "id":"3",
+        "name":"Ewelina",
+        "email":"ewelina@google.com",
+        "info":"Nie mamy informacji na temat tej osoby. W przyszłości trzeba uzupełnić dane."
+    },
+
+    {
+        "id":"4",
+        "name":"Marek",
+        "email":"oki@ok.com",
+        "info":"dedfr"
+    }
+]
